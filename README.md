@@ -1,3 +1,3 @@
-#Python
+#  Python
 
-Everything you need to know about python
+Everything you need to know about python!
